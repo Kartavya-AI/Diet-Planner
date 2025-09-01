@@ -103,9 +103,6 @@ gcloud run deploy diet-planner \
   --allow-unauthenticated
 ```
 
-### ✅ Live Deployment
-The application is successfully deployed and running at: **https://agent-diet-planner-322038152871.us-central1.run.app/**
-
 ### 2. Google Cloud Build (CI/CD)
 The repository includes a `cloudbuild.yaml` for automated deployments:
 ```bash
